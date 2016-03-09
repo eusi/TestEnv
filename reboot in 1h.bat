@@ -1,1 +1,1 @@
-SHUTDOWN -t 3600 -r
+SHUTDOWN -r -t 3600
