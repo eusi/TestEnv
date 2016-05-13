@@ -1,1 +1,1 @@
-SHUTDOWN -r -t 10700
+SHUTDOWN -r -t 10800
